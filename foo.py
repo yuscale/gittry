@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # filename foo.py
+
 from sys import argv
 
 
