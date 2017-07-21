@@ -18,7 +18,7 @@
 
 3. config PyCharm
 
-    log github in in the PyCharm
+    log GitHub in in the PyCharm
     in setting -> Version Control -> GitHub
     Auth Type -> password
 
