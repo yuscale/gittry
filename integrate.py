@@ -5,6 +5,7 @@ from sympy import *
 from scipy import integrate
 
 
+'''
 def calArea(lx, ly, amp):
     x, y, z, t = symbols('x y z t')
     # z = amp * sin(x * 2 * pi / lx ) * sin(2 * pi * y / ly)
@@ -12,8 +13,7 @@ def calArea(lx, ly, amp):
     dzdy = 2 * pi / ly * amp * sin(x * 2 * pi / lx ) * cos(2 * pi * y / ly)
     ds = sqrt(1. + dzdy ** 2 + dzdx ** 2)
     return ds
-##############
-
+'''
 
 def intergrad(x, y, lx, ly, amp):
     import math
