@@ -16,6 +16,13 @@
         $ git config --global user.name gitaccount
         $ git config --global user.email gitaccount@example.com
 
+    use
+
+        $ git config --list
+
+    to chech whether the config is OK.
+
+
 3. config PyCharm
 
     log GitHub in in the PyCharm
@@ -31,5 +38,8 @@
 tip:
 
         Ctrl+T  to update the project
-        Ctrl+K  to push to the GitHub
+        Ctrl+K  to commit (save changes localy)
+        Ctrl+Shift+K  to push the commit to the GitHub
+
+        Alt+` pop up menu CVS Operations
 
