@@ -23,6 +23,7 @@
     Auth Type -> password
 
 4. ref:
+
     http://daemon369.github.io/git/2015/03/11/setting-email-in-git
 
     http://daemon369.github.io/git/2015/07/26/01-git-03
