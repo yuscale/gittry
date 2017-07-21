@@ -25,5 +25,8 @@
 4. ref:
     http://daemon369.github.io/git/2015/03/11/setting-email-in-git
 
-tip: Ctrl+T  to update the project
+tip:
+
+        Ctrl+T  to update the project
+        Ctrl+K  to push to the GitHub
 
