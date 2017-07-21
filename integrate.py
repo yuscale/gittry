@@ -7,10 +7,6 @@ from scipy import integrate
 
 def calArea(lx, ly, amp):
     x, y, z, t = symbols('x y z t')
-
-    amp = 5
-    lx = ly =20
-
     # z = amp * sin(x * 2 * pi / lx ) * sin(2 * pi * y / ly)
     dzdx = 2 * pi / lx * amp * cos(x * 2 * pi / lx ) * sin(2 * pi * y / ly)
     dzdy = 2 * pi / ly * amp * sin(x * 2 * pi / lx ) * cos(2 * pi * y / ly)

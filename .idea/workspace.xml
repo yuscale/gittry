@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae5b50df-9ddc-49d9-a6b9-d356afae9ac3" name="Default" comment="add inte">
+    <list default="true" id="ae5b50df-9ddc-49d9-a6b9-d356afae9ac3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foo.py" afterPath="$PROJECT_DIR$/foo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/integrate.py" afterPath="$PROJECT_DIR$/integrate.py" />
     </list>
     <ignored path=".git/" />
     <ignored path=".idea/" />
@@ -39,8 +39,8 @@
       <file leaf-file-name="integrate.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/integrate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#49#68#0" expanded="true" />
               </folding>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500644370344</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add integrate.py">
+      <created>1500644746743</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1500644746743</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -358,7 +365,8 @@
     <MESSAGE value="first commit!" />
     <MESSAGE value="update README" />
     <MESSAGE value="try ignored files" />
-    <option name="LAST_COMMIT_MESSAGE" value="try ignored files" />
+    <MESSAGE value="add integrate.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add integrate.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -465,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/integrate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#49#68#0" expanded="true" />
           </folding>
