@@ -13,8 +13,8 @@
     run Git bash from Win + r
     set the global usrename and e-mail
 
-    $ git config --global user.name gitaccount
-    $ git config --global user.email gitaccount@example.com
+        $ git config --global user.name gitaccount
+        $ git config --global user.email gitaccount@example.com
 
 3. config PyCharm
 
@@ -26,3 +26,4 @@
     http://daemon369.github.io/git/2015/03/11/setting-email-in-git
 
 tip: Ctrl+T  to update the project
+
