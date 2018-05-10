@@ -13,8 +13,8 @@
     run Git bash from Win + r
     set the global usrename and e-mail
 
-        $ git config --global user.name gitaccount
-        $ git config --global user.email gitaccount@example.com
+        $ git config --global user.name 'gitaccount'
+        $ git config --global user.email 'gitaccount@example.com'
 
     use
 

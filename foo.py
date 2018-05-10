@@ -10,22 +10,22 @@ def foo(x):
         sum += i
     return sum
 
-
+'''
 #  单参数 ok
 if __name__ == "__main__":
     t = int(argv[1])
     with open('out.txt', 'a') as out:
         out.write(str(foo(t)))
+'''
 
 
-
-''''#  双参数 ok
+# 双参数 ok
 def foo2(x, y):
     sum = 0
     for i in range(x + y):
         sum += i
     return sum
-'''
+
 
 
 if __name__ == "__main__":
@@ -40,10 +40,10 @@ if __name__ == "__main__":
 在 才cmd 环境中使用
 
 # 单参数
-foo.py 100
+python foo.py 100
 
 #双参数
-foo.py 10 10
+python foo.py 10 10
 
 
 '''
