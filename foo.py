@@ -10,6 +10,7 @@ def foo(x):
         sum += i
     return sum
 
+
 '''
 #  单参数 ok
 if __name__ == "__main__":
@@ -27,10 +28,17 @@ def foo2(x, y):
     return sum
 
 
-
 if __name__ == "__main__":
-    t1 = int(argv[1])
-    t2 = int(argv[2])
+    
+    argvList = argv
+    length = len(argvList)
+    if length == 2:
+        t1= argv[0]
+        t2= argv[1]
+    else:
+        t1= 3
+        t2= 6
+    
     with open('out.txt', 'a') as out:
         out.write(str(foo2(t1, t2)))
         out.write('\n')
